@@ -1,0 +1,11 @@
+[project]
+name = "react-ai-agentic"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cohere>=5.13.11",
+    "python-dotenv>=1.0.1",
+    "wikipedia-api>=0.8.1",
+]
